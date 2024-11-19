@@ -1,2 +1,2 @@
-# KANJUT_BADAG
-This about my gabut project 
+# This Page Are About Kaggle Competition that i joined
+
